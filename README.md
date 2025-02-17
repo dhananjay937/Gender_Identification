@@ -56,8 +56,8 @@ A big thank you to **[@The Interface™ Group]** for supporting this project! Gr
 ## 📩 Contact
 For any questions or collaborations, feel free to reach out!
 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/dhananjay-patil-b25423315)  
+📧 Email: patildhananjay1307@gmail.com  
+🔗 LinkedIn: [Dhananjay_Patil](www.linkedin.com/in/dhananjay-patil-b25423315)  
 
 ---
 **#AI #MachineLearning #DeepLearning #TransferLearning #GenderIdentification #ComputerVision**
